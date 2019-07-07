@@ -1,4 +1,18 @@
-# nginx
+目录
+
+<!-- TOC -->
+
+- [Nginx](#nginx)
+    - [安装编译工具及库文件](#安装编译工具及库文件)
+    - [首先要安装PCRE](#首先要安装pcre)
+    - [安装nginx](#安装nginx)
+    - [nginx配置](#nginx配置)
+    - [启动nginx](#启动nginx)
+    - [nginx其它命令](#nginx其它命令)
+
+<!-- /TOC -->
+
+# Nginx
 CentOS部署nginx
 
 ## 安装编译工具及库文件
